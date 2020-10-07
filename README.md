@@ -1,6 +1,6 @@
 ## summary
 연결 테스트를 위주로 진행해봤던 슬랙 챗봇(hubot)!
-연결-응답 테스트를 위한 간단한 버전이라 context (자동 답변 방식) 처리 방식에 대해서는 고도화가 필요하지만, 재미삼아 테스트 해보시기엔 좋을 듯 합니다.
+연결-응답 테스트를 위한 간단한 버전이라 context (자동 답변 방식) 처리 방식에 대해서는 고도화가 필요하지만, 가볍게 테스트 해보시기엔 좋을 듯 합니다.
 >
 > 대화 처리방식 고도화
 > - [naver chatbot](https://www.ncloud.com/product/aiService/chatbot) => [API 설명서](https://docs.ncloud.com/ko/chatbot/chatbot-3-7.html)
